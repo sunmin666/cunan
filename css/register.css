@@ -83,7 +83,7 @@ input{
 }
 /* 第一步选中状态 */
 #red-one{
-    display: none;
+    display: block;
 }
 .reg-phone .reg-active{
     height: 37px;
@@ -236,7 +236,7 @@ input{
 }
 /* 注册成功 */
 #last-three{
-    display: block;
+    display: none;
 }
 .last-three img{
     margin-left:70px;
